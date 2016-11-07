@@ -12,7 +12,7 @@ person in each column, and then finding the shortest person among them (the
 "shortest-of-the-tallest").
 */
 
-class TallPeope {
+class TallPeople {
     public static int[] getPeople(String[] people) {
         int[] output = new int[2];
         int insideLen = people.length;
